@@ -1,4 +1,4 @@
-# Project 4: Stock-Market-Seasonality-Analysis
+# Stock-Market-Seasonality-Analysis
 * Analyzing historical stock market data for major companies (Apple, Microsoft, Google, Tesla, Amazon).
 * Utilizing Python for data retrieval, financial metric calculations, and analysis.
 * Performing weekly and monthly analyses of stock data.
