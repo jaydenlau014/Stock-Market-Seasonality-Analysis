@@ -5,3 +5,5 @@
 * Creating visually appealing Excel reports for data-driven decision-making.
 * Enhancing understanding of stock market trends and performance.
 * Developing proficiency in data analysis and visualization techniques.
+
+![AMAZON Weekly Win Rate](https://github.com/jaydenlau014/Stock-Market-Seasonality-Analysis/assets/109339656/89882e2d-9902-4859-b33e-5d675b37744b)
