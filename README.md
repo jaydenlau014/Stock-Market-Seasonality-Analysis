@@ -6,4 +6,8 @@
 * Enhancing understanding of stock market trends and performance.
 * Developing proficiency in data analysis and visualization techniques.
 
-![AMAZON Weekly Win Rate](https://github.com/jaydenlau014/Stock-Market-Seasonality-Analysis/assets/109339656/89882e2d-9902-4859-b33e-5d675b37744b)
+![AMAZON Weekly Win Rate](https://github.com/jaydenlau014/Stock-Market-Seasonality-Analysis/assets/109339656/68a793e1-69c4-440b-954d-80385c48ee54)
+
+
+![AMAZON Monthly Win Rate](https://github.com/jaydenlau014/Stock-Market-Seasonality-Analysis/assets/109339656/915f2031-0ec2-4ebc-b260-41738251106e)
+
